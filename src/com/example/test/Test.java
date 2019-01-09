@@ -22,7 +22,7 @@ public class Test {
         Transaction transaction=session.beginTransaction();
 
         User user = new User();
-        user.setId(6);
+        user.setId(7);
         user.setUsername("毛梓仰4");
         user.setPassword("1234564");
         user.setEmail("123456@qq.com4");
