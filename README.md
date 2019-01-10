@@ -15,5 +15,4 @@ mysql数据库8.0.13
 
 效果:
 
-https://camo.githubusercontent.com/5f5e70608c697a4389c39e50f7433ef23760d2b7/68747470733a2f2f692e696d6775722e636f6d2f634e747837304d2e706e67
-![github](https://github.com/MaoZiYang/Hibernate-Demo/src/imge/xiaoguotu.png "效果图")  
+![imge](https://github.com/MaoZiYang/Hibernate-Demo/blob/master/src/imge/xiaoguotu.png)  
