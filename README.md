@@ -14,4 +14,5 @@ mysql驱动包mysql-connector-java-5.1.46
 mysql数据库8.0.13
 
 效果:
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
+
+![github](https://github.com/MaoZiYang/Hibernate-Demo/tree/master/src/imge/3C5UQ)WF}7CJKVQ[QM`U6`7.png "效果图")  
