@@ -15,4 +15,4 @@ mysql数据库8.0.13
 
 效果:
 
-![github](https://github.com/MaoZiYang/Hibernate-Demo/tree/master/src/imge/3C5UQ)WF}7CJKVQ[QM`U6`7.png "效果图")  
+![github](https://github.com/MaoZiYang/Hibernate-Demo/tree/master/src/imge/xiaoguotu.png "效果图")  
