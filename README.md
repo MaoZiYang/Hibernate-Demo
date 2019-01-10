@@ -4,7 +4,11 @@
 功能：demo通过对象映射关系向MYSQL数据库user表插入一条信息
 
 版本说明:
+
 jdk1.8
+
 Hibernate 5.3.7
+
 mysql驱动包mysql-connector-java-5.1.46
+
 mysql数据库8.0.13
