@@ -12,3 +12,6 @@ Hibernate 5.3.7
 mysql驱动包mysql-connector-java-5.1.46
 
 mysql数据库8.0.13
+
+效果图:
+[!github](https://github.com/MaoZiYang/Hibernate-Demo/blob/master/src/image/xiaoguotu.png)
