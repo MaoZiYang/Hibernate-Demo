@@ -4,13 +4,18 @@
         "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
 <hibernate-configuration>
     <session-factory>
+        <!-- 配置关于数据库连接的四个项：driverClass  url username password -->
         <property name="connection.url">jdbc:mysql://localhost:3306/20190108hibernatedemo</property>
         <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
         <property name="connection.username">root</property>
         <property name="connection.password"> </property>
+        <!-- hibernate的方言 -->
         <property name="dialect">org.hibernate.dialect.MySQL5InnoDBDialect</property>
+        <!-- 将向数据库发送的SQL语句显示出来 -->
         <property name="show_sql">true</property>
+        <!-- 加载映射的类 -->
         <mapping class="com.example.User"/>
+        <!-- 配置hibernate的映射文件所在的位置 -->
         <mapping resource="com/example/User.hbm.xml"/>
         <!-- <property name="connection.username"/> -->
         <!-- <property name="connection.password"/> -->
